@@ -1,7 +1,0 @@
-package ar.edu.unq.po2.tp3;
-
-public class Punto {
-
-	int x;
-	int y;
-}
