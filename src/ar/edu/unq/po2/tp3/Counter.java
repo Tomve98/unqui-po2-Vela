@@ -31,3 +31,6 @@ public class Counter {
 //int es un tipo de dato primitivo de Java que hace referencia a un numero entero, en cambio Integer es una clase o un metodo el cual puede o no contener un int
 //Si se define un int, su valor predeterminado es 0. Si se define un Integer su valor es null
 // 
+
+///7
+//1.En el sistema de archivos, modelGui esta dentro de la carpeta model, mientras que modelStack se encuenta sola en una carpeta aparte
